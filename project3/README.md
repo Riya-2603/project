@@ -85,10 +85,6 @@ python main.py
 
 Contributions are welcome! Please fork the repository and submit pull requests for any features, improvements, or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Acknowledgements
 
 - The developers and contributors of `pyttsx3`, `SpeechRecognition`, `tkinter` and `Selenium`.
