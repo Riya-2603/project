@@ -70,14 +70,6 @@ pip install requests
    print("Shortened URL:", shortened_url)
    ```
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## Acknowledgements
-
-- [PyShorteners](https://github.com/ellisonleao/pyshorteners) for providing the URL shortening functionality.
